@@ -4,32 +4,20 @@ Welcome to my GitHub profile! I'm a **Full Stack Developer** at **Platinum Softw
 
 ## 🔧 My Tech Stack:
 ### 💻 Languages:
-- **Java** ☕
-- **Python** 🐍
-- **JavaScript** 🌐
-- **TypeScript** 📜
+- **Java** ☕ - **Python** 🐍 - **JavaScript** 🌐 - **TypeScript** 📜
 
 ### 🛠 Frameworks & Libraries:
 - **Backend**: 
-  - Django 🐍
-  - Flask 🌊
-  - Spring Boot ☁️
+  - Django 🐍 - Flask 🌊 - Spring Boot ☁️
   
 - **Frontend**: 
-  - ReactJS ⚛️
-  - Angular 🔷
-  - Vue.js 🌿
+  - ReactJS ⚛️ - Angular 🔷 - Vue.js 🌿
 
 ### 🌐 Web Technologies:
-- **HTML5** 📄
-- **CSS3** 🎨
-- **Tailwind CSS** 🌈
-- **Bootstrap** 🥤
+- **HTML5** 📄 - **CSS3** 🎨 - **Tailwind CSS** 🌈 - **Bootstrap** 🥤
 
 ### 🗄️ Databases:
-- **MySQL** 🗃️
-- **PostgreSQL** 🐘
-- **MongoDB** 🍃
+- **MySQL** 🗃️ - **PostgreSQL** 🐘 - **MongoDB** 🍃
 
 ### 🤖 Additional Skills:
 - **Machine Learning**: Exploring AI algorithms and building predictive models.
