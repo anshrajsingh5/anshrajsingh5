@@ -1,57 +1,63 @@
 # Ansh Raj Singh
-### Full Stack Developer | Platinum Software
+### Co-Founder & Technical Lead at Dev-Era
 
-Highly skilled Full Stack Developer focused on building high-performance web applications and exploring the potential of Machine Learning. I specialize in the JavaScript ecosystem and Java-based backend solutions to deliver scalable digital products.
-
----
-
-## Professional Tech Stack
-
-### Languages and Scripting
-- Java, Python, JavaScript (ES6+), TypeScript
-
-### Backend Development
-- Spring Boot, Django, Flask, Node.js
-
-### Frontend Engineering
-- React.js, Next.js, HTML5, CSS3, Tailwind CSS, Bootstrap
-
-### Database Management
-- Relational: MySQL, PostgreSQL
-- NoSQL: MongoDB
-
-### DevOps & Cloud
-- Docker, CI/CD Pipelines, AWS, Azure
+A multi-disciplinary Full Stack Engineer and Entrepreneur with a proven track record of building and deploying high-scale digital ecosystems. From high-performance Next.js interfaces to complex PHP backend architectures, I specialize in delivering end-to-end solutions that drive business growth.
 
 ---
 
-## Experience & Focus Areas
+## 🛠 Technical Mastery
 
-- **Platinum Software**: Currently leading the development of impactful digital solutions and complex web architectures.
-- **Machine Learning**: Implementing predictive models and exploring neural networks for data-driven decisions.
-- **Cloud Architecture**: Designing scalable foundations for modern applications.
+### Full Stack Engineering
+- **Modern Web**: Next.js, React.js, Tailwind CSS, TypeScript
+- **Backend Systems**: Python (Django/Flask), PHP (Core/Laravel), Java (Spring Boot)
+- **Data Architect**: MongoDB, PostgreSQL, MySQL
+
+### Infrastructure & Cloud
+- **DevOps**: Ubuntu VPS Management, Nginx Reverse Proxy, PM2, Docker
+- **Cloud Providers**: AWS (EC2, S3), Google Cloud Platform (GCP), Vercel
+- **Automation**: Custom CI/CD pipelines and AI-integrated workflows
 
 ---
 
-## Professional Interests
+## 🚀 Featured Live Projects (End-to-End Delivery)
 
-Building innovative solutions that solve real-world problems. I am passionate about crafting responsive user interfaces, optimizing backend logic for speed, and staying ahead of the curve with AI-driven development.
+I have conceptualized, developed, and deployed the following production environments:
+
+### 🏛 Corporate & Agency
+- **[Dev-Era](https://dev-era.com)**: Leading-edge startup portal showcasing our software transformation services.
+- **[Maven Peak Solutions](https://www.mavenpeaksolutions.com)**: A high-performance agency website built with Next.js focusing on business growth solutions.
+- **[Appbii](https://appbii.vercel.app)**: Next-gen AI-driven digital transformation platform.
+
+### 💰 Fintech & Real Estate
+- **[Platinum Finance](https://platinumfinance.tech)**: A robust financial gateway portal engineered with PHP for secure transactions.
+- **[DPS Realty](https://dpsrealty.in)**: A premium real estate discovery platform focused on the Haridwar property market (Next.js).
+
+### 📰 Media & Commerce
+- **[UK Daily Times](https://ukdailytimes.in)**: A high-traffic news portal ("Voice of the Mountain") engineered for global reach and SEO.
+- **[Export Now](https://products-5qtd.vercel.app)**: A modern E-commerce interface for eco-friendly products and sustainable packaging.
+- **[Practivoo](https://practivoo.com)**: Full-scale educational/training management platform.
+
+### 📊 Enterprise Solutions
+- **[IBS Admin Panel](https://cpanel.dev-era.com/ibs/)**: A sophisticated business management dashboard for data-driven operations.
+- **[Corevalent LLC](https://corevalentllc.com)**: Enterprise business solution with a robust backend architecture.
 
 ---
 
-## Contact Information
+## 🏗 System Architecture Philosophy
+
+I focus on building systems that are:
+1. **Scalable**: Using Next.js and microservices to handle concurrent traffic.
+2. **Secure**: Implementing server-level hardening on Ubuntu and secure Nginx configs.
+3. **SEO Optimized**: Leveraging SSG (Static Site Generation) for sub-second load times.
+
+---
+
+## 💼 Connect with Me
 
 - **Email**: anshrajsingh580@gmail.com
-- **LinkedIn**: [linkedin.com/in/ansh-raj-singh](https://www.linkedin.com/in/ansh-raj-singh-913830225)
-- **Twitter**: [twitter.com/AnshRajSingh](https://twitter.com/AnshRajSingh)
+- **Business**: [dev-era.com](https://dev-era.com)
+- **LinkedIn**: [ansh-raj-singh](https://www.linkedin.com/in/ansh-raj-singh-913830225)
+- **Twitter**: [@AnshRajSingh](https://twitter.com/AnshRajSingh)
 
 ---
-
-## Personal Interests
-
-- Constant experimentation with emerging frameworks.
-- Competitive gaming and strategic outdoor exploration.
-- Analysis of global tech trends and market innovations.
-
----
-> "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt
+> "Transforming complex challenges into elegant digital realities."
