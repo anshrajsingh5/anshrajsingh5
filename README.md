@@ -180,6 +180,8 @@ Full Stack Engineer and Systems Architect with hands-on experience building, dep
 ## Contact and Profiles
 
 * **Email**: anshrajsingh580@gmail.com
+* **Portfolio**: https://ansh.dev-era.com
+* **Website**: https://anprtix.com
 * **Website**: https://dev-era.com
 * **LinkedIn**: https://linkedin.com/in/ansh-raj-singh-913830225
 * **GitHub**: https://github.com/anshrajsingh5
